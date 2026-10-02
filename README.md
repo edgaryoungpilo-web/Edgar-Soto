@@ -2,11 +2,11 @@
 
 ### Automation Engineer | AI & Data Analytics | Machine Vision | Industry 4.0
 
-Mechatronics Engineer with experience in industrial automation, manufacturing,
-machine vision, PLC systems and software development.
+Mechatronics Engineer specializing in **Industrial Automation, Machine Vision, Artificial Intelligence and Data Analytics**, with experience developing automation solutions for manufacturing environments.
 
-Currently pursuing a Master's Degree in **Artificial Intelligence and Data Analytics**,
-with a focus on applying AI and Machine Learning to industrial environments.
+Currently pursuing a **Master's Degree in Artificial Intelligence and Data Analytics**, focused on integrating Machine Learning, Data Science and intelligent systems with industrial automation.
+
+My professional goal is to combine **OT + Software + Artificial Intelligence** to develop smarter, data-driven manufacturing systems.
 
 ---
 
@@ -15,16 +15,17 @@ with a focus on applying AI and Machine Learning to industrial environments.
 - 🏭 Industrial Automation
 - 🤖 Artificial Intelligence & Machine Learning
 - 👁️ Machine Vision & Computer Vision
-- 📊 Data Analytics
+- 📊 Data Science & Data Analytics
 - ⚙️ Predictive Maintenance
 - 🔗 Industry 4.0 & IIoT
-- 🖥️ Industrial Software Development
+- 💻 Industrial Software Development
+- 🔌 Electrical & Control Systems
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Industrial Automation
+## ⚙️ Industrial Automation
 
 ![Allen Bradley](https://img.shields.io/badge/Allen--Bradley-PLC-red)
 ![Siemens](https://img.shields.io/badge/Siemens-TIA%20Portal-009999)
@@ -32,106 +33,203 @@ with a focus on applying AI and Machine Learning to industrial environments.
 ![OPC UA](https://img.shields.io/badge/OPC-UA-blue)
 ![Modbus](https://img.shields.io/badge/Modbus-TCP-orange)
 
-### Programming
+**PLC & Automation**
+- Allen-Bradley / Rockwell Automation
+- Siemens
+- Mitsubishi
+- Studio 5000 / RSLogix
+- TIA Portal
+- GX Works
+- HMI / PanelView
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-
-### AI & Data Science
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+**Industrial Communication**
+- EtherNet/IP
+- PROFINET
+- Modbus TCP
+- OPC UA
 
 ---
 
-# 🎓 AI & Data Analytics Projects
+## 💻 Programming & Software Development
 
-## 🧠 Telecom Customer Churn Prediction
+![Python](https://img.shields.io/badge/Python-Programming-blue)
+![C++](https://img.shields.io/badge/C++-Programming-blue)
+![Flask](https://img.shields.io/badge/Flask-Web%20Development-black)
+![SQL](https://img.shields.io/badge/SQL-Database-blue)
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
 
-Machine Learning project focused on predicting customer churn using:
+- Python
+- C++
+- Flask
+- HTML / CSS
+- SQL
+- Git & GitHub
+- REST APIs
+- Raspberry Pi
+
+---
+
+## 🧠 Artificial Intelligence & Data Science
+
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-ML-orange)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue)
+
+**Machine Learning**
+- Logistic Regression
+- Random Forest
+- Support Vector Machines
+- K-Nearest Neighbors
+- Hyperparameter Optimization
+
+**Data Science**
+- Pandas
+- NumPy
+- Matplotlib
+- Exploratory Data Analysis
+- Feature Engineering
+- Synthetic Data
+- Model Evaluation
+
+---
+
+## 👁️ Machine Vision
+
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
+![Keyence](https://img.shields.io/badge/KEYENCE-Machine%20Vision-red)
+
+- KEYENCE Vision Systems
+- OpenCV
+- Automated Optical Inspection (AOI)
+- Image Processing
+- Industrial Inspection Systems
+
+---
+
+## 🏭 SCADA, IIoT & Industry 4.0
+
+- FactoryTalk
+- LabVIEW
+- Ignition
+- OPC UA
+- Industrial Networks
+- Raspberry Pi
+- Edge Computing
+- Data Acquisition
+
+---
+
+# 🚀 Featured Projects
+
+## ⚙️ Predictive Maintenance using Machine Learning
+
+Development of a predictive maintenance system for an **electric motor integrated into a conveyor system**.
+
+The project combines:
+
+`Industrial Sensors → Data Acquisition → Data Science → Machine Learning → Predictive Maintenance`
+
+Research areas include:
+
+- Motor vibration
+- Temperature
+- Electrical current
+- RPM
+- Load
+- Synthetic data generation
+- Machine Learning model comparison
+- Metaheuristic optimization
+- Predictive failure detection
+
+---
+
+## 🏭 Smart Workstation Management System — SWMS
+
+Web-based manufacturing management platform developed with **Python, Flask and SQLite**.
+
+Main modules:
+
+- Workstation management
+- Personnel management
+- Project management
+- Safety incidents
+- CAPA
+- Inventory
+- Maintenance
+- Dashboards
+- Reports
+- Machine Vision integration
+
+---
+
+## 🔧 MTTO — Intelligent Maintenance Management System
+
+Industrial maintenance platform designed to integrate:
+
+- Preventive Maintenance
+- Corrective Maintenance
+- Equipment Management
+- Electrical Documentation
+- ESD Control
+- QR / Barcode Identification
+- Dashboards
+- Maintenance KPIs
+- Artificial Intelligence
+
+---
+
+## 📊 Telecom Customer Churn — Machine Learning
+
+Machine Learning project for predicting customer churn.
+
+Models evaluated:
 
 - Logistic Regression
 - Random Forest
 - Support Vector Machine
 - K-Nearest Neighbors
-- GridSearchCV
-- Machine Learning Pipelines
 
-**Technologies:** Python | Pandas | scikit-learn | Jupyter
+Technologies:
 
----
-
-## 🎬 Recommendation Systems
-
-Development and analysis of recommendation algorithms using user-item
-interactions and similarity techniques.
-
-Topics include:
-
-- Content-Based Filtering
-- Collaborative Filtering
-- Similarity Metrics
-- Recommendation Evaluation
-
-**Technologies:** Python | Pandas | NumPy | scikit-learn
+`Python | Pandas | Scikit-learn | Matplotlib | Machine Learning`
 
 ---
 
-## 🏭 Predictive Maintenance
+# 🔬 Current Research
 
-AI and Machine Learning applied to industrial equipment condition monitoring.
+### Predictive Maintenance for Industrial Electric Motors using AI
 
-Variables of interest:
+Current research focuses on combining:
 
-- Vibration
-- Temperature
-- Electrical Current
-- Motor Speed
-- Operating Hours
+**Industrial Automation + Data Science + Machine Learning + Metaheuristics**
 
-Future integration:
-
-PLC → OPC UA → Python → Machine Learning → Predictive Maintenance Dashboard
+to identify optimal predictive models capable of detecting abnormal operating conditions and potential failures in industrial electric motors.
 
 ---
 
-## 👁️ Industrial Machine Vision
+# 🎓 Education
 
-Computer vision applications for industrial inspection and automation.
+**Master's Degree — Artificial Intelligence & Data Analytics**  
+Universidad Autónoma de Ciudad Juárez
 
-Applications:
-
-- Object Detection
-- Presence / Absence Verification
-- Defect Detection
-- Image Processing
-- PLC / Vision Integration
-
-**Technologies:** OpenCV | Python | KEYENCE | PLC
+**Mechatronics Engineering**
 
 ---
 
-## 🔬 Currently Learning
+# 🎯 Professional Focus
 
-- Advanced Machine Learning
-- Recommendation Systems
-- Predictive Maintenance
-- Computer Vision
-- Industrial AI
-- IIoT
-- Data Engineering
+My long-term professional focus is the convergence of:
+
+`Automation + OT + IIoT + Data Science + Artificial Intelligence`
+
+to develop **Smart Manufacturing and Industry 4.0 solutions**.
 
 ---
 
-## 🎯 Current Goal
+## 📫 Connect with me
 
-Integrating:
-
-**Industrial Automation + Artificial Intelligence + Data Analytics**
-
-to develop intelligent manufacturing and Industry 4.0 solutions.
+💼 Automation Engineering  
+🤖 Artificial Intelligence  
+📊 Data Analytics  
+🏭 Industry 4.0
